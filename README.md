@@ -1,2 +1,0 @@
-# Bluejay-Delivery-test
-Test
